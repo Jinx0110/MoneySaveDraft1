@@ -7,7 +7,6 @@ Start Amount: R3 000
 Current Amount: R3 300
 
 Recent Earnings:
- > 2000 (email template)
  > 300 (freelance)
- > 500 (Email Template)
- > 500 (SEO)
+ > 2000 (SEO)
+ > 1000 (Fittings)
