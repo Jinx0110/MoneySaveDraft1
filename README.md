@@ -16,5 +16,5 @@
 -Add income source e.g Freelance
 
 # TXT File Storage Structure EXAMPLE
-![](https://github.com/Jinx0110/MoneySaveDraft1/blob/main/MoneySaveTXTFileStructure.png?raw=true)
+![](https://github.com/Jinx0110/MoneySaveDraft1/blob/main/MoneySaveTXTFileSTructure.png?raw=true)
 
